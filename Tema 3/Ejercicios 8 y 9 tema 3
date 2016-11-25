@@ -1,0 +1,12 @@
+8. ¿Qué es una etiqueta HTML? ¿Cuáles son las etiquetas que hemos estudiado hasta este momento?
+
+Es una etiqueta usada para identificar el tipo de información que contiene
+
+html, head, body, meta, script, style, h(n), p, a, ol, li, img, title, link.
+
+9. Las etiquetas que acabas de mencionar (y otras muchas más que veremos) son 
+bilaterales. ¿Qué es una etiqueta bilateral?. En XHTML, ¿cómo cerramos las etiquetas que no son bilaterales?
+
+Es una etiqueta que está formada por unos caracteres de apertura y otros de cierre. Ej.: <head></head>
+
+Las etiquetas que no son bilaterales se cierran poniendo el caracter "/" al final de la etiqueta (aunque realmente no es necesario pornerlo pero si aconsejable, ya que el propio interperte sabe cuales son las etiquetas no bilaterales y cuales no). Ej.: <img src="hola.png" />

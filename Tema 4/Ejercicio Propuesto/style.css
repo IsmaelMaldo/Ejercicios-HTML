@@ -1,0 +1,49 @@
+body {
+  background-image: url(http://wall-papers.info/images/movie-backgrounds/movie-backgrounds-16.jpg);
+}
+div {
+  background-color: rgba(255, 255, 255, .8);
+  border-radius: 20px;
+  padding: 20px;
+  width: 85vw;
+  margin: auto;
+  overflow: auto;
+}
+h1 {
+  text-align: center;
+  border: #000000 solid 1px;
+  background-color: #FFFFFF;
+  color: red;
+  border-radius: 30px;
+  padding: 10px 0 10px 0;
+}
+img {
+  max-width: 30%;
+  float: left;
+  border-radius: 20px;
+}
+ul {
+  display: block;
+  width: 65%;
+  float: right;
+}
+li:nth-child(1) {
+  color: #14a618;  
+}
+li:nth-child(2) {
+  color: #14a6a9;  
+}
+li:nth-child(3) {
+  color: #a91515;  
+}
+li:nth-child(4) {
+  color: #b3c114;  
+}
+li:nth-child(5) {
+  color: #8f15a9;  
+}
+li:nth-child(5) dd {
+  color: #000000;
+  margin: 0;
+  text-align: justify;
+}

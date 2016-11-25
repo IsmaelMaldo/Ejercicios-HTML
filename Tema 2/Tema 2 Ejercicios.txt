@@ -1,0 +1,5 @@
+9. ¿Qué son Apache y el Internet Information Services (IIS)? ¿Cúal es su función?
+Son programas servidores web, se encargan de responder a las peticiones de los clientes web
+
+10. ¿Qué son PHP, ASP y JSP?
+Son lenguajes de programación del lado del servidor que se encargan de procesar la información para enviarle el resultado a un programa servidor web para su reenviado al cliente
